@@ -1,5 +1,7 @@
 return model =
   name: 'Space Mine'
+  level: 1
+  model: 1
   size: 0.7
   bodies:
     main:
